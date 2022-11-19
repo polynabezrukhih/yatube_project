@@ -1,2 +1,15 @@
-# Repository-name
-Социальная сеть блогеров
+# Yatube
+ ### Описание
+  Социальная сеть, в которой можно вести свою публичную страницу.
+ ### Технологии
+  Python 3.9
+   Django 2.2.19 
+ ### Запуск проекта в dev-режиме 
+ - Установите и активируйте виртуальное окружение 
+ - Установите зависимости из файла requirements.txt
+  ``` pip install -r requirements.txt ``` 
+ - В папке с файлом manage.py выполните команду: 
+ ``` python3 manage.py runserver ```
+  ### Авторы 
+  Полина 
+  https://github.com/polynabezrukhih
